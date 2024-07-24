@@ -1,2 +1,3 @@
 # ThisIsUS
-This repository is destined to host and share Puja's &amp; Akshat's combined journey. 
+This repository hosts and share Puja's &amp; Akshat's journey. 
+https://codesnuggles.github.io/ThisIsUS/
